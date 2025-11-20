@@ -10,11 +10,7 @@ class Solution:
                 for j in range(len(nums2)):
                     nums1[i]=nums2[j]
                     i+=1
-                break
-                
-            
-
-            
+                break    
 
         nums1.sort()   
         return nums1
