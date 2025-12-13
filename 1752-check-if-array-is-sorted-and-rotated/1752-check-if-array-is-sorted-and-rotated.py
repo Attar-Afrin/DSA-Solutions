@@ -4,8 +4,9 @@ class Solution:
         count=1
         if n==1:
             return True
-        for i in range(1, 2*n):
-            if nums[i%n]>=nums[(i-1) %n]:
+        res=nums*2
+        for i in range(1, len(res)):
+            if res[i]>=res[i-1]:
                 count+=1
             else:
                 count=1
