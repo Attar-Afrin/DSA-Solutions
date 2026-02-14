@@ -12,9 +12,11 @@ class Solution:
             res=res*10+r
             x//=10
         if not flag:
-            res=-res
+            return -res
+        else:
+            return res
         if res<-2**31 or res>2**31-1:
             return 0
-        return res
+        
 
         
