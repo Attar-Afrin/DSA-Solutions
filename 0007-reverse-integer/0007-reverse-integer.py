@@ -11,12 +11,13 @@ class Solution:
             r=x%10
             res=res*10+r
             x//=10
+        if res<-2**31 or res>2**31-1:
+            return 0
         if not flag:
             return -res
         else:
             return res
-        if res<-2**31 or res>2**31-1:
-            return 0
+        
         
 
         
