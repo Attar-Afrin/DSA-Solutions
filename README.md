@@ -11,4 +11,9 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
