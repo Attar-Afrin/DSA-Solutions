@@ -9,6 +9,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -28,8 +29,22 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
