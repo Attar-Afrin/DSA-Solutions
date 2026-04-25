@@ -7,6 +7,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -43,6 +44,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
