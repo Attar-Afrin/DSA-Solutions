@@ -8,6 +8,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -58,9 +59,14 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
