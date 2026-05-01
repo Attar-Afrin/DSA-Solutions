@@ -43,6 +43,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | ------- | ------- |
 | [0136-single-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
