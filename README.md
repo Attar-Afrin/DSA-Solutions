@@ -8,6 +8,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -35,6 +36,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
