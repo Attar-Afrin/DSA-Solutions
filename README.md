@@ -47,6 +47,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
