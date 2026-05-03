@@ -36,6 +36,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0796-rotate-string](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0796-rotate-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +88,8 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
