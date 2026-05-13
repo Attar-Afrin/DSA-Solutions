@@ -10,6 +10,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | [0011-container-with-most-water](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -50,6 +51,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -97,5 +99,6 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
