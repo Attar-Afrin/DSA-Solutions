@@ -12,6 +12,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | [0033-search-in-rotated-sorted-array](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0136-single-number/) | Easy |
@@ -100,5 +101,10 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
