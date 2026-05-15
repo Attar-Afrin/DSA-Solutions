@@ -24,6 +24,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ A Collection of my Data Structures and Algorithms Solutions from Leetcode, Geeks
 | [0169-majority-element](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Attar-Afrin/DSA-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
